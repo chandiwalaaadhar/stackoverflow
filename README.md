@@ -38,3 +38,6 @@ The main findings of the code can be found at the post available [here](https://
 
 Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
 
+## Aadhar Chandiwala's Opinion
+
+This Tutorial was all in all good where we learned about CRISP-DM, the thing I found a little difficult was understanding some of the Explaninations since I have very minimum experience working with machnine learning algorithms 
